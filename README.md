@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Testes com Locust + Grafana + Prometheus
 
 Este projeto visa demonstrar a utilização de teste de carga e performance em apis, mensagerias fix server e utilizando selenium para testes de usuarios mais robusto
 
