@@ -8,7 +8,7 @@ colorama==0.4.6
 ConfigArgParse==1.7
 Django==1.11.29
 Flask==3.0.3
-Flask-Cors==4.0.1
+Flask-Cors==5.0.0
 Flask-Login==0.6.3
 gevent==24.2.1
 geventhttpclient==2.3.1
